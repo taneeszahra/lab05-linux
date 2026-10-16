@@ -1,0 +1,19 @@
+total 72
+drwxr-x--- 13 taneeszahra taneeszahra 4096 Oct 16 06:46 .
+drwxr-xr-x  3 root        root        4096 Sep 12 15:42 ..
+-rw-------  1 taneeszahra taneeszahra  551 Oct 10 03:16 .bash_history
+-rw-r--r--  1 taneeszahra taneeszahra  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 taneeszahra taneeszahra 3771 Feb 13  2026 .bashrc
+drwx------  2 taneeszahra taneeszahra 4096 Sep 12 15:51 .cache
+-rw-rw-r--  1 taneeszahra taneeszahra  186 Oct 16 06:45 .gitconfig
+drwx------  3 taneeszahra taneeszahra 4096 Oct 10 03:57 .local
+-rw-r--r--  1 taneeszahra taneeszahra  807 Feb 13  2026 .profile
+drwx------  2 taneeszahra taneeszahra 4096 Oct 16 06:39 .ssh
+drwxrwxr-x  3 taneeszahra taneeszahra 4096 Oct 10 04:47 Assignment01
+drwxrwxr-x  4 taneeszahra taneeszahra 4096 Oct 10 06:16 CC
+drwxrwxr-x  3 taneeszahra taneeszahra 4096 Oct 10 03:34 Gitea
+drwxrwxr-x  5 taneeszahra taneeszahra 4096 Oct 16 06:46 lab05-linux
+drwxrwxr-x  2 taneeszahra taneeszahra 4096 Sep 21 10:49 mylab
+drwxrwxr-x  3 taneeszahra taneeszahra 4096 Oct 10 05:25 portfolio
+drwxrwxr-x  2 taneeszahra taneeszahra 4096 Oct 10 05:20 portfoolio
+drwxrwxr-x  3 taneeszahra taneeszahra 4096 Oct 10 05:34 taneeszahra.github.io
